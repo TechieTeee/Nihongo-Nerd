@@ -1,5 +1,5 @@
 ## Nihongo Nerd
-(In progress) app to help Japanese students learn in a fun and enaging way
+(In progress) app to help Japanese students learn in a fun and enaging way with interactive challenges
 
 ## Getting Started
 
